@@ -1,0 +1,11 @@
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+
+.dropdown-content a {
+    color: black;
+    display: block;
+}
+
+.show {display: block;}
